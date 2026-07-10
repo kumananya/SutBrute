@@ -1,0 +1,5 @@
+{
+  "api_key": "SUTBRUTE-FREE-2026",
+  "proxy_list": ["http://user:pass@ip:port"],
+  "user_agents": ["UA1", "UA2"]
+}
