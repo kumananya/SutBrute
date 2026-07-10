@@ -11,6 +11,6 @@ Toolkit reconnaissance + brute force login dengan API key, proxy, dan multi-thre
 
 ## Instalasi
 ```bash
-git clone https://github.com/yourusername/SutBrute.git
+git clone https://github.com/kumananya/SutBrute.git
 cd SutBrute
 pip install -r requirements.txt
